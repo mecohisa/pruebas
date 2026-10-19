@@ -1,3 +1,8 @@
 source/*
 !source/.gitkeep
 __pycache__/
+character/reference/
+character/evidence/*-first.png
+character/evidence/*-fixed.png
+character/evidence/traced.png
+evidence/debug.png

@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {svg,animatedSVG} from './skeleton.mjs';
+import {sample,KEYFRAMES,FPS,DURATION,SEGMENTS} from './motion.mjs';
+const root=path.dirname(fileURLToPath(import.meta.url)),art=JSON.parse(fs.readFileSync(path.join(root,'art.json')));
+fs.mkdirSync(path.join(root,'poses'),{recursive:true});
+for(let frame=0;frame<660;frame++)fs.writeFileSync(path.join(root,'poses',`${String(frame).padStart(4,'0')}.svg`),svg(art,sample(frame)));
+fs.writeFileSync(path.join(root,'skeleton.svg'),svg(art,sample(60)));
+fs.writeFileSync(path.join(root,'skeleton-animated.svg'),animatedSVG(art));
+fs.writeFileSync(path.join(root,'skeleton-rhombus.svg'),animatedSVG(art,{start:60,end:135}));
+fs.writeFileSync(path.join(root,'keyframes.json'),JSON.stringify({fps:FPS,duration:DURATION,frameCount:660,method:'44 manually reconstructed key poses; intermediate samples are interpolated. Not exact frame-by-frame segmentation.',sourceStartSeconds:158,keyframes:KEYFRAMES,segments:SEGMENTS},null,2));
+console.log('Exported 660 transparent vector poses, static SVG, two animated SVGs and editable keyframe data.');

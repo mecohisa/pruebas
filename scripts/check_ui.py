@@ -9,7 +9,7 @@ with sync_playwright() as p:
     page=browser.new_page(viewport={'width':1440,'height':1150},device_scale_factor=1)
     page.on('pageerror',lambda error:errors.append(str(error)))
     page.on('response',lambda r:failures.append(f'{r.status} {r.url}') if r.status>=400 else None)
-    response=page.goto('http://127.0.0.1:8000',wait_until='domcontentloaded')
+    response=page.goto('http://127.0.0.1:8000/scene.html',wait_until='domcontentloaded')
     assert response.status==200
     page.wait_for_function('window.dance && dance.frame >= 0')
     page.get_by_role('button',name='Pausar animación',exact=True).click()
@@ -65,7 +65,7 @@ with sync_playwright() as p:
     page.screenshot(path=str(root/'evidence/mobile.png'),full_page=True)
     assert page.evaluate('document.documentElement.scrollWidth<=window.innerWidth');results['mobile_no_horizontal_overflow']='passed'
     reduced=browser.new_page(reduced_motion='reduce')
-    reduced.goto('http://127.0.0.1:8000',wait_until='domcontentloaded');reduced.wait_for_function('window.dance')
+    reduced.goto('http://127.0.0.1:8000/scene.html',wait_until='domcontentloaded');reduced.wait_for_function('window.dance')
     assert not reduced.evaluate('dance.playing');results['reduced_motion']='passed'
     # Walk all assets to detect corrupt or incomplete extraction outputs.
     for n in range(660):

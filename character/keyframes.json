@@ -1,0 +1,2725 @@
+{
+  "fps": 29.97002997002997,
+  "duration": 22.022000000000002,
+  "frameCount": 660,
+  "method": "44 manually reconstructed key poses; intermediate samples are interpolated. Not exact frame-by-frame segmentation.",
+  "sourceStartSeconds": 158,
+  "keyframes": [
+    {
+      "frame": 0,
+      "time": 0,
+      "label": "Impulso",
+      "pose": {
+        "head": [
+          300,
+          140
+        ],
+        "headAngle": -14,
+        "face": 1,
+        "chest": [
+          300,
+          218
+        ],
+        "chestAngle": -16,
+        "pelvis": [
+          300,
+          390
+        ],
+        "pelvisAngle": -20,
+        "elbowL": [
+          220,
+          230
+        ],
+        "wristL": [
+          210,
+          285
+        ],
+        "elbowR": [
+          380,
+          230
+        ],
+        "wristR": [
+          390,
+          285
+        ],
+        "kneeL": [
+          255,
+          485
+        ],
+        "ankleL": [
+          290,
+          605
+        ],
+        "kneeR": [
+          415,
+          355
+        ],
+        "ankleR": [
+          345,
+          450
+        ],
+        "footL": -5,
+        "footR": -10,
+        "handL": -70,
+        "handR": 60,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 15,
+      "time": 0.5005000000000001,
+      "label": "Elevación",
+      "pose": {
+        "head": [
+          300,
+          135
+        ],
+        "headAngle": -14,
+        "face": 1,
+        "chest": [
+          300,
+          212
+        ],
+        "chestAngle": -16,
+        "pelvis": [
+          300,
+          390
+        ],
+        "pelvisAngle": -20,
+        "elbowL": [
+          215,
+          295
+        ],
+        "wristL": [
+          220,
+          365
+        ],
+        "elbowR": [
+          390,
+          240
+        ],
+        "wristR": [
+          370,
+          330
+        ],
+        "kneeL": [
+          255,
+          485
+        ],
+        "ankleL": [
+          290,
+          605
+        ],
+        "kneeR": [
+          415,
+          355
+        ],
+        "ankleR": [
+          345,
+          450
+        ],
+        "footL": -5,
+        "footR": -10,
+        "handL": -70,
+        "handR": 60,
+        "fistL": 0,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 30,
+      "time": 1.0010000000000001,
+      "label": "Piernas juntas",
+      "pose": {
+        "head": [
+          300,
+          112
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          188
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          368
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          240,
+          290
+        ],
+        "wristL": [
+          228,
+          370
+        ],
+        "elbowR": [
+          360,
+          290
+        ],
+        "wristR": [
+          372,
+          370
+        ],
+        "kneeL": [
+          260,
+          485
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          340,
+          485
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 45,
+      "time": 1.5015,
+      "label": "Inclinación lateral",
+      "pose": {
+        "head": [
+          225,
+          168
+        ],
+        "headAngle": -14,
+        "face": -0.4,
+        "chest": [
+          290,
+          220
+        ],
+        "chestAngle": -18,
+        "pelvis": [
+          300,
+          405
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          185,
+          292
+        ],
+        "wristL": [
+          195,
+          370
+        ],
+        "elbowR": [
+          410,
+          275
+        ],
+        "wristR": [
+          420,
+          370
+        ],
+        "kneeL": [
+          165,
+          505
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          435,
+          505
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 60,
+      "time": 2.0020000000000002,
+      "label": "Rombo",
+      "pose": {
+        "head": [
+          300,
+          142
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          218
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          398
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          218,
+          320
+        ],
+        "wristL": [
+          188,
+          393
+        ],
+        "elbowR": [
+          382,
+          320
+        ],
+        "wristR": [
+          412,
+          393
+        ],
+        "kneeL": [
+          195,
+          500
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          405,
+          500
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 75,
+      "time": 2.5025,
+      "label": "Estiramiento",
+      "pose": {
+        "head": [
+          300,
+          88
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          164
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          344
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          240,
+          290
+        ],
+        "wristL": [
+          228,
+          370
+        ],
+        "elbowR": [
+          360,
+          290
+        ],
+        "wristR": [
+          372,
+          370
+        ],
+        "kneeL": [
+          260,
+          485
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          340,
+          485
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 90,
+      "time": 3.003,
+      "label": "Rombo abierto",
+      "pose": {
+        "head": [
+          300,
+          142
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          218
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          398
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          218,
+          320
+        ],
+        "wristL": [
+          188,
+          393
+        ],
+        "elbowR": [
+          382,
+          320
+        ],
+        "wristR": [
+          412,
+          393
+        ],
+        "kneeL": [
+          195,
+          500
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          405,
+          500
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 105,
+      "time": 3.5035000000000003,
+      "label": "Estiramiento alto",
+      "pose": {
+        "head": [
+          300,
+          88
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          164
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          344
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          240,
+          290
+        ],
+        "wristL": [
+          228,
+          370
+        ],
+        "elbowR": [
+          360,
+          290
+        ],
+        "wristR": [
+          372,
+          370
+        ],
+        "kneeL": [
+          260,
+          485
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          340,
+          485
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 120,
+      "time": 4.0040000000000004,
+      "label": "Rombo frontal",
+      "pose": {
+        "head": [
+          300,
+          142
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          218
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          398
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          218,
+          320
+        ],
+        "wristL": [
+          188,
+          393
+        ],
+        "elbowR": [
+          382,
+          320
+        ],
+        "wristR": [
+          412,
+          393
+        ],
+        "kneeL": [
+          195,
+          500
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          405,
+          500
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 135,
+      "time": 4.5045,
+      "label": "Rodilla arriba",
+      "pose": {
+        "head": [
+          315,
+          118
+        ],
+        "headAngle": -14,
+        "face": 1,
+        "chest": [
+          300,
+          200
+        ],
+        "chestAngle": -16,
+        "pelvis": [
+          300,
+          375
+        ],
+        "pelvisAngle": -20,
+        "elbowL": [
+          215,
+          315
+        ],
+        "wristL": [
+          280,
+          350
+        ],
+        "elbowR": [
+          390,
+          240
+        ],
+        "wristR": [
+          370,
+          330
+        ],
+        "kneeL": [
+          255,
+          485
+        ],
+        "ankleL": [
+          290,
+          605
+        ],
+        "kneeR": [
+          415,
+          355
+        ],
+        "ankleR": [
+          345,
+          450
+        ],
+        "footL": -5,
+        "footR": -10,
+        "handL": -70,
+        "handR": 60,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 150,
+      "time": 5.005,
+      "label": "Patada frontal",
+      "pose": {
+        "head": [
+          315,
+          105
+        ],
+        "headAngle": -14,
+        "face": 1,
+        "chest": [
+          300,
+          187
+        ],
+        "chestAngle": -16,
+        "pelvis": [
+          310,
+          360
+        ],
+        "pelvisAngle": -20,
+        "elbowL": [
+          215,
+          315
+        ],
+        "wristL": [
+          280,
+          350
+        ],
+        "elbowR": [
+          390,
+          240
+        ],
+        "wristR": [
+          370,
+          330
+        ],
+        "kneeL": [
+          280,
+          480
+        ],
+        "ankleL": [
+          330,
+          605
+        ],
+        "kneeR": [
+          445,
+          335
+        ],
+        "ankleR": [
+          525,
+          310
+        ],
+        "footL": -5,
+        "footR": -70,
+        "handL": -70,
+        "handR": 60,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 165,
+      "time": 5.5055000000000005,
+      "label": "Pierna plegada",
+      "pose": {
+        "head": [
+          320,
+          92
+        ],
+        "headAngle": -14,
+        "face": 1,
+        "chest": [
+          310,
+          173
+        ],
+        "chestAngle": -16,
+        "pelvis": [
+          320,
+          350
+        ],
+        "pelvisAngle": -20,
+        "elbowL": [
+          215,
+          315
+        ],
+        "wristL": [
+          280,
+          350
+        ],
+        "elbowR": [
+          390,
+          240
+        ],
+        "wristR": [
+          370,
+          330
+        ],
+        "kneeL": [
+          175,
+          380
+        ],
+        "ankleL": [
+          300,
+          412
+        ],
+        "kneeR": [
+          410,
+          475
+        ],
+        "ankleR": [
+          435,
+          605
+        ],
+        "footL": 30,
+        "footR": 0,
+        "handL": -70,
+        "handR": 60,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 180,
+      "time": 6.006,
+      "label": "Paso de carrera",
+      "pose": {
+        "head": [
+          315,
+          118
+        ],
+        "headAngle": -14,
+        "face": 1,
+        "chest": [
+          300,
+          200
+        ],
+        "chestAngle": -16,
+        "pelvis": [
+          300,
+          375
+        ],
+        "pelvisAngle": -20,
+        "elbowL": [
+          215,
+          315
+        ],
+        "wristL": [
+          280,
+          350
+        ],
+        "elbowR": [
+          390,
+          240
+        ],
+        "wristR": [
+          370,
+          330
+        ],
+        "kneeL": [
+          255,
+          485
+        ],
+        "ankleL": [
+          290,
+          605
+        ],
+        "kneeR": [
+          435,
+          435
+        ],
+        "ankleR": [
+          465,
+          520
+        ],
+        "footL": -5,
+        "footR": 70,
+        "handL": -70,
+        "handR": 60,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 195,
+      "time": 6.5065,
+      "label": "Salto abierto",
+      "pose": {
+        "head": [
+          300,
+          100
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          176
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          350
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          215,
+          270
+        ],
+        "wristL": [
+          200,
+          345
+        ],
+        "elbowR": [
+          385,
+          270
+        ],
+        "wristR": [
+          400,
+          345
+        ],
+        "kneeL": [
+          155,
+          425
+        ],
+        "ankleL": [
+          230,
+          500
+        ],
+        "kneeR": [
+          445,
+          425
+        ],
+        "ankleR": [
+          370,
+          500
+        ],
+        "footL": 25,
+        "footR": -25,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 210,
+      "time": 7.007000000000001,
+      "label": "Rombo de enlace",
+      "pose": {
+        "head": [
+          300,
+          142
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          218
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          398
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          218,
+          320
+        ],
+        "wristL": [
+          188,
+          393
+        ],
+        "elbowR": [
+          382,
+          320
+        ],
+        "wristR": [
+          412,
+          393
+        ],
+        "kneeL": [
+          195,
+          500
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          405,
+          500
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 225,
+      "time": 7.5075,
+      "label": "Pierna plegada",
+      "pose": {
+        "head": [
+          320,
+          92
+        ],
+        "headAngle": -14,
+        "face": 1,
+        "chest": [
+          310,
+          173
+        ],
+        "chestAngle": -16,
+        "pelvis": [
+          320,
+          350
+        ],
+        "pelvisAngle": -20,
+        "elbowL": [
+          215,
+          315
+        ],
+        "wristL": [
+          280,
+          350
+        ],
+        "elbowR": [
+          390,
+          240
+        ],
+        "wristR": [
+          370,
+          330
+        ],
+        "kneeL": [
+          175,
+          380
+        ],
+        "ankleL": [
+          300,
+          412
+        ],
+        "kneeR": [
+          410,
+          475
+        ],
+        "ankleR": [
+          435,
+          605
+        ],
+        "footL": 30,
+        "footR": 0,
+        "handL": -70,
+        "handR": 60,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 240,
+      "time": 8.008000000000001,
+      "label": "Paso de carrera",
+      "pose": {
+        "head": [
+          315,
+          118
+        ],
+        "headAngle": -14,
+        "face": 1,
+        "chest": [
+          300,
+          200
+        ],
+        "chestAngle": -16,
+        "pelvis": [
+          300,
+          375
+        ],
+        "pelvisAngle": -20,
+        "elbowL": [
+          215,
+          315
+        ],
+        "wristL": [
+          280,
+          350
+        ],
+        "elbowR": [
+          390,
+          240
+        ],
+        "wristR": [
+          370,
+          330
+        ],
+        "kneeL": [
+          255,
+          485
+        ],
+        "ankleL": [
+          290,
+          605
+        ],
+        "kneeR": [
+          435,
+          435
+        ],
+        "ankleR": [
+          465,
+          520
+        ],
+        "footL": -5,
+        "footR": 70,
+        "handL": -70,
+        "handR": 60,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 255,
+      "time": 8.5085,
+      "label": "Piernas cruzadas",
+      "pose": {
+        "head": [
+          315,
+          105
+        ],
+        "headAngle": -14,
+        "face": 1,
+        "chest": [
+          300,
+          185
+        ],
+        "chestAngle": -16,
+        "pelvis": [
+          300,
+          355
+        ],
+        "pelvisAngle": -20,
+        "elbowL": [
+          215,
+          315
+        ],
+        "wristL": [
+          280,
+          350
+        ],
+        "elbowR": [
+          390,
+          240
+        ],
+        "wristR": [
+          370,
+          330
+        ],
+        "kneeL": [
+          255,
+          485
+        ],
+        "ankleL": [
+          290,
+          605
+        ],
+        "kneeR": [
+          300,
+          400
+        ],
+        "ankleR": [
+          240,
+          435
+        ],
+        "footL": -5,
+        "footR": 15,
+        "handL": -70,
+        "handR": 60,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 270,
+      "time": 9.009,
+      "label": "Rombo frontal",
+      "pose": {
+        "head": [
+          300,
+          142
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          218
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          398
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          218,
+          320
+        ],
+        "wristL": [
+          188,
+          393
+        ],
+        "elbowR": [
+          382,
+          320
+        ],
+        "wristR": [
+          412,
+          393
+        ],
+        "kneeL": [
+          195,
+          500
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          405,
+          500
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 285,
+      "time": 9.509500000000001,
+      "label": "Salto amplio",
+      "pose": {
+        "head": [
+          300,
+          100
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          176
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          350
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          215,
+          270
+        ],
+        "wristL": [
+          200,
+          345
+        ],
+        "elbowR": [
+          385,
+          270
+        ],
+        "wristR": [
+          400,
+          345
+        ],
+        "kneeL": [
+          155,
+          425
+        ],
+        "ankleL": [
+          230,
+          500
+        ],
+        "kneeR": [
+          445,
+          425
+        ],
+        "ankleR": [
+          370,
+          500
+        ],
+        "footL": 25,
+        "footR": -25,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 300,
+      "time": 10.01,
+      "label": "Balanceo derecho",
+      "pose": {
+        "head": [
+          300,
+          128
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          310,
+          210
+        ],
+        "chestAngle": -17,
+        "pelvis": [
+          340,
+          398
+        ],
+        "pelvisAngle": -8,
+        "elbowL": [
+          270,
+          325
+        ],
+        "wristL": [
+          295,
+          430
+        ],
+        "elbowR": [
+          405,
+          325
+        ],
+        "wristR": [
+          410,
+          420
+        ],
+        "kneeL": [
+          315,
+          510
+        ],
+        "ankleL": [
+          265,
+          605
+        ],
+        "kneeR": [
+          370,
+          510
+        ],
+        "ankleR": [
+          330,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 315,
+      "time": 10.5105,
+      "label": "Patada izquierda",
+      "pose": {
+        "head": [
+          300,
+          124
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          205
+        ],
+        "chestAngle": 8,
+        "pelvis": [
+          270,
+          385
+        ],
+        "pelvisAngle": 12,
+        "elbowL": [
+          240,
+          320
+        ],
+        "wristL": [
+          200,
+          380
+        ],
+        "elbowR": [
+          365,
+          320
+        ],
+        "wristR": [
+          320,
+          430
+        ],
+        "kneeL": [
+          160,
+          425
+        ],
+        "ankleL": [
+          105,
+          505
+        ],
+        "kneeR": [
+          310,
+          505
+        ],
+        "ankleR": [
+          345,
+          605
+        ],
+        "footL": -75,
+        "footR": 0,
+        "handL": 35,
+        "handR": 55,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 330,
+      "time": 11.011000000000001,
+      "label": "Balanceo izquierdo",
+      "pose": {
+        "head": [
+          300,
+          128
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          290,
+          210
+        ],
+        "chestAngle": 17,
+        "pelvis": [
+          260,
+          398
+        ],
+        "pelvisAngle": 8,
+        "elbowL": [
+          195,
+          325
+        ],
+        "wristL": [
+          190,
+          420
+        ],
+        "elbowR": [
+          330,
+          325
+        ],
+        "wristR": [
+          305,
+          430
+        ],
+        "kneeL": [
+          230,
+          510
+        ],
+        "ankleL": [
+          270,
+          605
+        ],
+        "kneeR": [
+          285,
+          510
+        ],
+        "ankleR": [
+          335,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 345,
+      "time": 11.5115,
+      "label": "Patada derecha",
+      "pose": {
+        "head": [
+          300,
+          124
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          205
+        ],
+        "chestAngle": -8,
+        "pelvis": [
+          330,
+          385
+        ],
+        "pelvisAngle": -12,
+        "elbowL": [
+          235,
+          320
+        ],
+        "wristL": [
+          280,
+          430
+        ],
+        "elbowR": [
+          360,
+          320
+        ],
+        "wristR": [
+          400,
+          380
+        ],
+        "kneeL": [
+          290,
+          505
+        ],
+        "ankleL": [
+          255,
+          605
+        ],
+        "kneeR": [
+          440,
+          425
+        ],
+        "ankleR": [
+          495,
+          505
+        ],
+        "footL": 0,
+        "footR": 75,
+        "handL": -55,
+        "handR": -35,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 360,
+      "time": 12.012,
+      "label": "Balanceo derecho",
+      "pose": {
+        "head": [
+          300,
+          128
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          310,
+          210
+        ],
+        "chestAngle": -17,
+        "pelvis": [
+          340,
+          398
+        ],
+        "pelvisAngle": -8,
+        "elbowL": [
+          270,
+          325
+        ],
+        "wristL": [
+          295,
+          430
+        ],
+        "elbowR": [
+          405,
+          325
+        ],
+        "wristR": [
+          410,
+          420
+        ],
+        "kneeL": [
+          315,
+          510
+        ],
+        "ankleL": [
+          265,
+          605
+        ],
+        "kneeR": [
+          370,
+          510
+        ],
+        "ankleR": [
+          330,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 375,
+      "time": 12.512500000000001,
+      "label": "Patada izquierda larga",
+      "pose": {
+        "head": [
+          300,
+          124
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          205
+        ],
+        "chestAngle": 8,
+        "pelvis": [
+          270,
+          385
+        ],
+        "pelvisAngle": 12,
+        "elbowL": [
+          240,
+          320
+        ],
+        "wristL": [
+          200,
+          380
+        ],
+        "elbowR": [
+          365,
+          320
+        ],
+        "wristR": [
+          320,
+          430
+        ],
+        "kneeL": [
+          120,
+          450
+        ],
+        "ankleL": [
+          85,
+          540
+        ],
+        "kneeR": [
+          310,
+          505
+        ],
+        "ankleR": [
+          345,
+          605
+        ],
+        "footL": -75,
+        "footR": 0,
+        "handL": 35,
+        "handR": 55,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 390,
+      "time": 13.013,
+      "label": "Descenso",
+      "pose": {
+        "head": [
+          300,
+          220
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          296
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          455
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          180,
+          320
+        ],
+        "wristL": [
+          195,
+          390
+        ],
+        "elbowR": [
+          420,
+          320
+        ],
+        "wristR": [
+          405,
+          390
+        ],
+        "kneeL": [
+          185,
+          500
+        ],
+        "ankleL": [
+          235,
+          605
+        ],
+        "kneeR": [
+          415,
+          500
+        ],
+        "ankleR": [
+          365,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": -15,
+        "handR": 15,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 405,
+      "time": 13.5135,
+      "label": "Agachada",
+      "pose": {
+        "head": [
+          300,
+          335
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          411
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          535
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          170,
+          385
+        ],
+        "wristL": [
+          180,
+          450
+        ],
+        "elbowR": [
+          430,
+          385
+        ],
+        "wristR": [
+          420,
+          450
+        ],
+        "kneeL": [
+          150,
+          505
+        ],
+        "ankleL": [
+          235,
+          605
+        ],
+        "kneeR": [
+          450,
+          505
+        ],
+        "ankleR": [
+          365,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": -15,
+        "handR": 15,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 420,
+      "time": 14.014000000000001,
+      "label": "Agachada profunda",
+      "pose": {
+        "head": [
+          300,
+          365
+        ],
+        "headAngle": 12,
+        "face": 0,
+        "chest": [
+          300,
+          433
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          558
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          170,
+          385
+        ],
+        "wristL": [
+          180,
+          450
+        ],
+        "elbowR": [
+          430,
+          385
+        ],
+        "wristR": [
+          420,
+          450
+        ],
+        "kneeL": [
+          145,
+          555
+        ],
+        "ankleL": [
+          265,
+          615
+        ],
+        "kneeR": [
+          455,
+          555
+        ],
+        "ankleR": [
+          335,
+          615
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": -15,
+        "handR": 15,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 435,
+      "time": 14.5145,
+      "label": "Subida",
+      "pose": {
+        "head": [
+          300,
+          250
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          326
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          500
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          190,
+          385
+        ],
+        "wristL": [
+          190,
+          455
+        ],
+        "elbowR": [
+          410,
+          385
+        ],
+        "wristR": [
+          410,
+          455
+        ],
+        "kneeL": [
+          185,
+          550
+        ],
+        "ankleL": [
+          278,
+          610
+        ],
+        "kneeR": [
+          415,
+          550
+        ],
+        "ankleR": [
+          322,
+          610
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": -15,
+        "handR": 15,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 450,
+      "time": 15.015,
+      "label": "Estiramiento",
+      "pose": {
+        "head": [
+          300,
+          88
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          164
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          344
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          240,
+          290
+        ],
+        "wristL": [
+          228,
+          370
+        ],
+        "elbowR": [
+          360,
+          290
+        ],
+        "wristR": [
+          372,
+          370
+        ],
+        "kneeL": [
+          260,
+          485
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          340,
+          485
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 465,
+      "time": 15.5155,
+      "label": "Pierna plegada inversa",
+      "pose": {
+        "head": [
+          280,
+          92
+        ],
+        "headAngle": 14,
+        "face": -1,
+        "chest": [
+          290,
+          173
+        ],
+        "chestAngle": 16,
+        "pelvis": [
+          280,
+          350
+        ],
+        "pelvisAngle": 20,
+        "elbowL": [
+          210,
+          240
+        ],
+        "wristL": [
+          230,
+          330
+        ],
+        "elbowR": [
+          385,
+          315
+        ],
+        "wristR": [
+          320,
+          350
+        ],
+        "kneeL": [
+          190,
+          475
+        ],
+        "ankleL": [
+          165,
+          605
+        ],
+        "kneeR": [
+          425,
+          380
+        ],
+        "ankleR": [
+          300,
+          412
+        ],
+        "footL": 0,
+        "footR": -30,
+        "handL": -60,
+        "handR": 70,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 480,
+      "time": 16.016000000000002,
+      "label": "Carrera inversa",
+      "pose": {
+        "head": [
+          285,
+          118
+        ],
+        "headAngle": 14,
+        "face": -1,
+        "chest": [
+          300,
+          200
+        ],
+        "chestAngle": 16,
+        "pelvis": [
+          300,
+          375
+        ],
+        "pelvisAngle": 20,
+        "elbowL": [
+          210,
+          240
+        ],
+        "wristL": [
+          230,
+          330
+        ],
+        "elbowR": [
+          385,
+          315
+        ],
+        "wristR": [
+          320,
+          350
+        ],
+        "kneeL": [
+          165,
+          435
+        ],
+        "ankleL": [
+          135,
+          520
+        ],
+        "kneeR": [
+          345,
+          485
+        ],
+        "ankleR": [
+          310,
+          605
+        ],
+        "footL": -70,
+        "footR": 5,
+        "handL": -60,
+        "handR": 70,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 495,
+      "time": 16.5165,
+      "label": "Cruce inverso",
+      "pose": {
+        "head": [
+          285,
+          118
+        ],
+        "headAngle": 14,
+        "face": -1,
+        "chest": [
+          300,
+          200
+        ],
+        "chestAngle": 16,
+        "pelvis": [
+          300,
+          375
+        ],
+        "pelvisAngle": 20,
+        "elbowL": [
+          210,
+          240
+        ],
+        "wristL": [
+          230,
+          330
+        ],
+        "elbowR": [
+          385,
+          315
+        ],
+        "wristR": [
+          320,
+          350
+        ],
+        "kneeL": [
+          185,
+          355
+        ],
+        "ankleL": [
+          255,
+          450
+        ],
+        "kneeR": [
+          345,
+          485
+        ],
+        "ankleR": [
+          310,
+          605
+        ],
+        "footL": 10,
+        "footR": 5,
+        "handL": -60,
+        "handR": 70,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 510,
+      "time": 17.017,
+      "label": "Rombo frontal",
+      "pose": {
+        "head": [
+          300,
+          142
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          218
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          398
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          218,
+          320
+        ],
+        "wristL": [
+          188,
+          393
+        ],
+        "elbowR": [
+          382,
+          320
+        ],
+        "wristR": [
+          412,
+          393
+        ],
+        "kneeL": [
+          195,
+          500
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          405,
+          500
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 525,
+      "time": 17.517500000000002,
+      "label": "Salto amplio",
+      "pose": {
+        "head": [
+          300,
+          100
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          176
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          350
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          215,
+          270
+        ],
+        "wristL": [
+          200,
+          345
+        ],
+        "elbowR": [
+          385,
+          270
+        ],
+        "wristR": [
+          400,
+          345
+        ],
+        "kneeL": [
+          155,
+          425
+        ],
+        "ankleL": [
+          230,
+          500
+        ],
+        "kneeR": [
+          445,
+          425
+        ],
+        "ankleR": [
+          370,
+          500
+        ],
+        "footL": 25,
+        "footR": -25,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 540,
+      "time": 18.018,
+      "label": "Carrera inversa",
+      "pose": {
+        "head": [
+          285,
+          118
+        ],
+        "headAngle": 14,
+        "face": -1,
+        "chest": [
+          300,
+          200
+        ],
+        "chestAngle": 16,
+        "pelvis": [
+          300,
+          375
+        ],
+        "pelvisAngle": 20,
+        "elbowL": [
+          210,
+          240
+        ],
+        "wristL": [
+          230,
+          330
+        ],
+        "elbowR": [
+          385,
+          315
+        ],
+        "wristR": [
+          320,
+          350
+        ],
+        "kneeL": [
+          165,
+          435
+        ],
+        "ankleL": [
+          135,
+          520
+        ],
+        "kneeR": [
+          345,
+          485
+        ],
+        "ankleR": [
+          310,
+          605
+        ],
+        "footL": -70,
+        "footR": 5,
+        "handL": -60,
+        "handR": 70,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 555,
+      "time": 18.5185,
+      "label": "Cruce inverso",
+      "pose": {
+        "head": [
+          285,
+          118
+        ],
+        "headAngle": 14,
+        "face": -1,
+        "chest": [
+          300,
+          200
+        ],
+        "chestAngle": 16,
+        "pelvis": [
+          300,
+          375
+        ],
+        "pelvisAngle": 20,
+        "elbowL": [
+          210,
+          240
+        ],
+        "wristL": [
+          230,
+          330
+        ],
+        "elbowR": [
+          385,
+          315
+        ],
+        "wristR": [
+          320,
+          350
+        ],
+        "kneeL": [
+          185,
+          355
+        ],
+        "ankleL": [
+          255,
+          450
+        ],
+        "kneeR": [
+          345,
+          485
+        ],
+        "ankleR": [
+          310,
+          605
+        ],
+        "footL": 10,
+        "footR": 5,
+        "handL": -60,
+        "handR": 70,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 570,
+      "time": 19.019000000000002,
+      "label": "Rodilla plegada inversa",
+      "pose": {
+        "head": [
+          280,
+          92
+        ],
+        "headAngle": 14,
+        "face": -1,
+        "chest": [
+          290,
+          173
+        ],
+        "chestAngle": 16,
+        "pelvis": [
+          280,
+          350
+        ],
+        "pelvisAngle": 20,
+        "elbowL": [
+          210,
+          240
+        ],
+        "wristL": [
+          230,
+          330
+        ],
+        "elbowR": [
+          385,
+          315
+        ],
+        "wristR": [
+          320,
+          350
+        ],
+        "kneeL": [
+          190,
+          475
+        ],
+        "ankleL": [
+          165,
+          605
+        ],
+        "kneeR": [
+          425,
+          380
+        ],
+        "ankleR": [
+          300,
+          412
+        ],
+        "footL": 0,
+        "footR": -30,
+        "handL": -60,
+        "handR": 70,
+        "fistL": 1,
+        "fistR": 1
+      }
+    },
+    {
+      "frame": 585,
+      "time": 19.5195,
+      "label": "Salto de enlace",
+      "pose": {
+        "head": [
+          300,
+          125
+        ],
+        "headAngle": 12,
+        "face": -0.6,
+        "chest": [
+          300,
+          200
+        ],
+        "chestAngle": 8,
+        "pelvis": [
+          300,
+          380
+        ],
+        "pelvisAngle": 4,
+        "elbowL": [
+          210,
+          260
+        ],
+        "wristL": [
+          205,
+          330
+        ],
+        "elbowR": [
+          390,
+          260
+        ],
+        "wristR": [
+          385,
+          330
+        ],
+        "kneeL": [
+          245,
+          490
+        ],
+        "ankleL": [
+          195,
+          605
+        ],
+        "kneeR": [
+          415,
+          355
+        ],
+        "ankleR": [
+          345,
+          450
+        ],
+        "footL": -5,
+        "footR": -10,
+        "handL": -70,
+        "handR": 60,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 600,
+      "time": 20.02,
+      "label": "Rombo abierto",
+      "pose": {
+        "head": [
+          300,
+          142
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          218
+        ],
+        "chestAngle": 0,
+        "pelvis": [
+          300,
+          398
+        ],
+        "pelvisAngle": 0,
+        "elbowL": [
+          218,
+          320
+        ],
+        "wristL": [
+          188,
+          393
+        ],
+        "elbowR": [
+          382,
+          320
+        ],
+        "wristR": [
+          412,
+          393
+        ],
+        "kneeL": [
+          195,
+          500
+        ],
+        "ankleL": [
+          278,
+          605
+        ],
+        "kneeR": [
+          405,
+          500
+        ],
+        "ankleR": [
+          322,
+          605
+        ],
+        "footL": 0,
+        "footR": 0,
+        "handL": 0,
+        "handR": 0,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 615,
+      "time": 20.520500000000002,
+      "label": "Paso cruzado final",
+      "pose": {
+        "head": [
+          300,
+          124
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          205
+        ],
+        "chestAngle": 8,
+        "pelvis": [
+          270,
+          385
+        ],
+        "pelvisAngle": 12,
+        "elbowL": [
+          240,
+          320
+        ],
+        "wristL": [
+          200,
+          380
+        ],
+        "elbowR": [
+          365,
+          320
+        ],
+        "wristR": [
+          320,
+          430
+        ],
+        "kneeL": [
+          210,
+          485
+        ],
+        "ankleL": [
+          190,
+          550
+        ],
+        "kneeR": [
+          310,
+          505
+        ],
+        "ankleR": [
+          345,
+          605
+        ],
+        "footL": -35,
+        "footR": 0,
+        "handL": 35,
+        "handR": 55,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 630,
+      "time": 21.021,
+      "label": "Patada izquierda final",
+      "pose": {
+        "head": [
+          300,
+          124
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          205
+        ],
+        "chestAngle": 8,
+        "pelvis": [
+          270,
+          385
+        ],
+        "pelvisAngle": 12,
+        "elbowL": [
+          240,
+          320
+        ],
+        "wristL": [
+          200,
+          380
+        ],
+        "elbowR": [
+          365,
+          320
+        ],
+        "wristR": [
+          320,
+          430
+        ],
+        "kneeL": [
+          160,
+          425
+        ],
+        "ankleL": [
+          105,
+          505
+        ],
+        "kneeR": [
+          310,
+          505
+        ],
+        "ankleR": [
+          345,
+          605
+        ],
+        "footL": -75,
+        "footR": 0,
+        "handL": 35,
+        "handR": 55,
+        "fistL": 0,
+        "fistR": 0
+      }
+    },
+    {
+      "frame": 645,
+      "time": 21.5215,
+      "label": "Patada derecha final",
+      "pose": {
+        "head": [
+          300,
+          124
+        ],
+        "headAngle": 0,
+        "face": 0,
+        "chest": [
+          300,
+          205
+        ],
+        "chestAngle": -8,
+        "pelvis": [
+          330,
+          385
+        ],
+        "pelvisAngle": -12,
+        "elbowL": [
+          235,
+          320
+        ],
+        "wristL": [
+          280,
+          430
+        ],
+        "elbowR": [
+          360,
+          320
+        ],
+        "wristR": [
+          400,
+          380
+        ],
+        "kneeL": [
+          290,
+          505
+        ],
+        "ankleL": [
+          255,
+          605
+        ],
+        "kneeR": [
+          440,
+          425
+        ],
+        "ankleR": [
+          495,
+          505
+        ],
+        "footL": 0,
+        "footR": 75,
+        "handL": -55,
+        "handR": -35,
+        "fistL": 0,
+        "fistR": 0
+      }
+    }
+  ],
+  "segments": [
+    {
+      "name": "Coreografía completa",
+      "start": 0,
+      "end": 660
+    },
+    {
+      "name": "Rombo y estiramiento",
+      "start": 60,
+      "end": 135
+    },
+    {
+      "name": "Pasos y patadas",
+      "start": 135,
+      "end": 300
+    },
+    {
+      "name": "Balanceos",
+      "start": 300,
+      "end": 390
+    },
+    {
+      "name": "Agachada y subida",
+      "start": 390,
+      "end": 465
+    },
+    {
+      "name": "Carrera inversa",
+      "start": 465,
+      "end": 600
+    }
+  ]
+}

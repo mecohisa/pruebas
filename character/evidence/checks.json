@@ -1,0 +1,24 @@
+{
+  "660_self_contained_vector_poses": "passed",
+  "660_pngs_with_true_alpha_and_no_clipped_edges": "passed",
+  "reduced_motion": "passed",
+  "articulated_vector_without_video_or_raster_images": "passed",
+  "44_key_poses_load": "passed",
+  "play_and_pause": "passed",
+  "seek_and_single_frame_step": "passed",
+  "select_key_pose": "passed",
+  "segment_and_rate_controls": "passed",
+  "png_export_preserves_alpha_and_custom_color": "passed",
+  "svg_pose_export": "passed",
+  "selected_sequence_animated_svg_export": "passed",
+  "mobile_no_horizontal_overflow": "passed",
+  "standalone_smil_animation_matches_png_exports": {
+    "0": 0.0102,
+    "120": 0.013,
+    "150": 0.0098,
+    "405": 0.0084
+  },
+  "javascript_errors": [],
+  "http_errors": [],
+  "11_texturepacker_atlases_cover_all_660_frames": "passed"
+}
