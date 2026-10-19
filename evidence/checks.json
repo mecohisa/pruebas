@@ -1,0 +1,25 @@
+{
+  "pause": "passed",
+  "eight_original_pngs": "passed",
+  "canvas_vs_source_psnr_db": {
+    "0": 44.53,
+    "60": 44.02,
+    "120": 43.98,
+    "200": 44.35,
+    "300": 44.0,
+    "400": 44.41,
+    "450": 44.29,
+    "600": 44.44
+  },
+  "frame_step": "passed",
+  "seek_last_frame": "passed",
+  "loop_boundary": "passed",
+  "restart": "passed",
+  "playback_speed": "passed",
+  "audio_sync_drift_seconds": 0.007,
+  "mobile_no_horizontal_overflow": "passed",
+  "reduced_motion": "passed",
+  "all_660_frames_decode": "passed",
+  "javascript_errors": [],
+  "http_errors": []
+}

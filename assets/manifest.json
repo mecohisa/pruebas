@@ -1,0 +1,76 @@
+{
+  "source": "Skeleton Dance - clip 2m38s-3m00s.mp4",
+  "sourceStartSeconds": 158,
+  "width": 864,
+  "height": 720,
+  "crop": {
+    "x": 312,
+    "y": 0,
+    "width": 1296,
+    "height": 1080
+  },
+  "fps": 29.97002997002997,
+  "fpsNumerator": 30000,
+  "fpsDenominator": 1001,
+  "count": 660,
+  "duration": 22.022000000000002,
+  "pattern": "assets/dance/{frame:04d}.webp",
+  "poses": [
+    {
+      "frame": 0,
+      "label": "La entrada",
+      "file": "assets/poses/0000.png",
+      "clipSeconds": 0.0,
+      "originalSeconds": 158.0
+    },
+    {
+      "frame": 60,
+      "label": "Rodillas en rombo",
+      "file": "assets/poses/0060.png",
+      "clipSeconds": 2.0020000000000002,
+      "originalSeconds": 160.002
+    },
+    {
+      "frame": 120,
+      "label": "De frente",
+      "file": "assets/poses/0120.png",
+      "clipSeconds": 4.0040000000000004,
+      "originalSeconds": 162.004
+    },
+    {
+      "frame": 200,
+      "label": "Paso cruzado",
+      "file": "assets/poses/0200.png",
+      "clipSeconds": 6.673333333333334,
+      "originalSeconds": 164.67333333333335
+    },
+    {
+      "frame": 300,
+      "label": "El contratiempo",
+      "file": "assets/poses/0300.png",
+      "clipSeconds": 10.01,
+      "originalSeconds": 168.01
+    },
+    {
+      "frame": 400,
+      "label": "A ras del suelo",
+      "file": "assets/poses/0400.png",
+      "clipSeconds": 13.346666666666668,
+      "originalSeconds": 171.34666666666666
+    },
+    {
+      "frame": 450,
+      "label": "Vuelta al compás",
+      "file": "assets/poses/0450.png",
+      "clipSeconds": 15.015,
+      "originalSeconds": 173.015
+    },
+    {
+      "frame": 600,
+      "label": "Últimos pasos",
+      "file": "assets/poses/0600.png",
+      "clipSeconds": 20.02,
+      "originalSeconds": 178.02
+    }
+  ]
+}
